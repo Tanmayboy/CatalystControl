@@ -1,0 +1,12 @@
+{
+  "customers": [
+    { "name": "Olivia Martin", "email": "olivia.martin@email.com", "status": "active", "lastOrder": "2023-01-23", "spent": "$2,500.00", "avatarId": "avatar-6" },
+    { "name": "Jackson Lee", "email": "jackson.lee@email.com", "status": "active", "lastOrder": "2023-02-14", "spent": "$500.50", "avatarId": "avatar-7" },
+    { "name": "Isabella Nguyen", "email": "isabella.nguyen@email.com", "status": "lead", "lastOrder": "2023-03-07", "spent": "$150.00", "avatarId": "avatar-8" },
+    { "name": "William Kim", "email": "will@email.com", "status": "active", "lastOrder": "2023-04-19", "spent": "$899.99", "avatarId": "avatar-9" },
+    { "name": "Sofia Davis", "email": "sofia.davis@email.com", "status": "lost", "lastOrder": "2023-05-30", "spent": "$39.00", "avatarId": "avatar-11" },
+    { "name": "Liam Johnson", "email": "liam@email.com", "status": "active", "lastOrder": "2023-06-12", "spent": "$1,200.75", "avatarId": "avatar-1" },
+    { "name": "Noah Brown", "email": "noah.brown@email.com", "status": "lead", "lastOrder": "2023-07-01", "spent": "$0.00", "avatarId": "avatar-2" },
+    { "name": "Emma Garcia", "email": "emma.garcia@email.com", "status": "lost", "lastOrder": "2023-02-01", "spent": "$75.25", "avatarId": "avatar-3" }
+  ]
+}

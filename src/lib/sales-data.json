@@ -1,0 +1,33 @@
+{
+  "kpiData": [
+    { "title": "In-store sales", "value": "$24,581.58", "change": 3.46, "iconName": "Store" },
+    { "title": "Website sales", "value": "$64,835.56", "change": -4.41, "iconName": "Globe" },
+    { "title": "Discount", "value": "$1,341.58", "change": 24, "iconName": "Percent" }
+  ],
+  "chartData": [
+    { "date": "Mar 10", "visit": 80, "order": 60 },
+    { "date": "Mar 11", "visit": 65, "order": 75 },
+    { "date": "Mar 12", "visit": 90, "order": 85 },
+    { "date": "Mar 13", "visit": 110, "order": 95 },
+    { "date": "Mar 14", "visit": 130, "order": 110 },
+    { "date": "Mar 15", "visit": 120, "order": 105 },
+    { "date": "Mar 16", "visit": 150, "order": 130 },
+    { "date": "Mar 17", "visit": 140, "order": 125 },
+    { "date": "Mar 18", "visit": 170, "order": 160 },
+    { "date": "Mar 19", "visit": 160, "order": 145 },
+    { "date": "Mar 20", "visit": 190, "order": 170 },
+    { "date": "Mar 21", "visit": 180, "order": 165 },
+    { "date": "Mar 22", "visit": 210, "order": 190 },
+    { "date": "Mar 23", "visit": 200, "order": 180 },
+    { "date": "Mar 24", "visit": 230, "order": 210 },
+    { "date": "Mar 25", "visit": 220, "order": 200 },
+    { "date": "Mar 26", "visit": 250, "order": 240 }
+  ],
+  "totalSalesData": {
+    "total": "49,500",
+    "breakdown": [
+        { "name": "Store Sales", "value": "$23,264.00", "change": 7.6, "color": "bg-sky-500" },
+        { "name": "Online Sales", "value": "$23,264.00", "change": 7.6, "color": "bg-emerald-500" }
+    ]
+  }
+}
