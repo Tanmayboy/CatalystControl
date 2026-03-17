@@ -55,7 +55,7 @@ export default function LoginPage() {
           </div>
           <CardTitle className="text-2xl font-bold font-headline">Catalyst Control</CardTitle>
           <CardDescription>
-            Enter your email below to login to your account
+            Enter your email below to login to your account 
           </CardDescription>
         </CardHeader>
         <CardContent>

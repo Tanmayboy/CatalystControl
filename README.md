@@ -16,14 +16,18 @@ Welcome to Catalyst Control, a sleek and modern dashboard application built with
 *   **AI-Ready**: Integrated with Google's Genkit, ready for you to build powerful generative AI features.
 *   **Data-Driven**: All page content is sourced from JSON files, making it simple to manage and update data without touching the code.
 
+## Default ID Password
+
+email: olivia.martin@email.com
+password: password123
 ## Getting Started
 
 To get this project running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone git@github.com:Tanmayboy/CatalystControl.git
+    cd CatalystControl
     ```
 
 2.  **Install dependencies:**
